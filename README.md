@@ -4,11 +4,12 @@
 
 This is a github page for iOS App [Mention la](https://apps.apple.com/us/app/mention/id1488286618).
 This page is mainly used for ***reporting bugs*** and ***hosting translation files***.
-You can feel free to report bugs, suggest features or contribute in translation here.
+You can feel free to report bugs, suggest features or contribute in translation here. 
+Thanks a lot !! ❤️ 
 
 ### Contributing
 
-If you really like **Mention la**, we actually really need your help! 
+If you really like **Mention la**, I actually really need your help! 
 Mention la can use your help with any of the following:
 
 - Finding and reporting bugs
@@ -16,7 +17,6 @@ Mention la can use your help with any of the following:
 - Answer questions in issues
 - Translate Mention la in different languages
 - Review the translations
-Thanks a lot !! ❤️ 
 
 ### 🐛 How to report bugs ?
 
@@ -33,7 +33,13 @@ And I will reply you ASAP.
 
 ### ✍🏻 How to contribute in translation ?
 
-You could click the ```Download``` button at right top corner to download all the translation. 
-All the translation files are in the ```Translations``` folder. 
-If you want to create a new language, just simply copy an existing language folder and rename it to new [language code](https://www.science.co.il/language/Locale-codes.php). i.e. ```zh-HK``` to ```ja```.
-You can edit those file using Wordpad, but we recommand you to use [Atom](https://atom.io/) which is more powerful.
+You could click the ```Download``` button at right top corner to download all the translation.
+All the translation files are in the ```Translations``` folder.  
+If you want to create a new language, just simply copy an existing language folder and rename it to new [language code](https://www.science.co.il/language/Locale-codes.php). i.e. ```zh-HK``` to ```ja```.  
+You can edit those file using Wordpad, but I recommand you to use [Atom](https://atom.io/) which is more powerful.  
+After finished the translation, you can make **Pull Request** here.  **If don't know how to make a Pull Request, you can just email it to me johnny@mention.la**.
+
+### ❤️ Donation and Sponsorship
+
+If you ❤️ Mention la and want to support the author in financial way, you could click the ```Sponsor``` button at the mid-top.
+You could choose to sponsor monthly (Github Sponsors) or donate one time (Paypal or BuyMeACoffee). I am grateful for your kind support.
