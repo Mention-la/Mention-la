@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delete_saved_posts_msg</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@num_of_posts@</string>
+		<key>num_of_posts</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>one</key>
+			<string>你是咪決定刪除呢個文宣？</string>
+			<key>other</key>
+			<string>你是咪決定刪除呢 %u 個文宣？</string>
+		</dict>
+	</dict>
+	<key>delete_saved_posts_success_msg</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@num_of_posts@</string>
+		<key>num_of_posts</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>one</key>
+			<string>你成功刪除 1 個文宣。</string>
+			<key>other</key>
+			<string>你成功刪除 %u 個文宣。</string>
+		</dict>
+	</dict>
+	<key>selected_post_count</key>
+	<dict>
+		<key>num_of_selected_posts</key>
+		<dict>
+			<key>one</key>
+			<string>揀咗 1 個文宣</string>
+			<key>zero</key>
+			<string>未揀任何文宣</string>
+			<key>other</key>
+			<string>揀咗 %u 個文宣</string>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+		</dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@num_of_selected_posts@</string>
+	</dict>
+	<key>delete_save_list_post_warning</key>
+	<dict>
+		<key>num_of_posts</key>
+		<dict>
+			<key>one</key>
+			<string>它將會從此壽於正寢。</string>
+			<key>other</key>
+			<string>它們將會從此壽於正寢。</string>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+		</dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@num_of_posts@</string>
+	</dict>
+	<key>saved_by_counter</key>
+	<dict>
+		<key>num_of_save</key>
+		<dict>
+			<key>other</key>
+			<string>%u 個人</string>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+		</dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@num_of_save@</string>
+	</dict>
+	<key>mention_counter</key>
+	<dict>
+		<key>num_of_mention</key>
+		<dict>
+			<key>other</key>
+			<string>%u 次</string>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+		</dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@num_of_mention@</string>
+	</dict>
+	<key>post_count</key>
+	<dict>
+		<key>num_of_posts</key>
+		<dict>
+			<key>one</key>
+			<string>1 個文宣</string>
+			<key>zero</key>
+			<string>冇文宣</string>
+			<key>other</key>
+			<string>%u 個文宣</string>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+		</dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@num_of_posts@</string>
+	</dict>
+</dict>
+</plist>

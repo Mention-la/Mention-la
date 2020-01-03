@@ -1,0 +1,207 @@
+/* 
+  Localizable.strings
+  Mention
+
+  Created by Johnny Tsoi on 13/12/2019.
+  Copyright © 2019 Johnny@Mention.la. All rights reserved.
+*/
+
+/* Global */
+"email" = "Email";
+"username" = "用戶名";
+"password" = "密碼";
+"re-password" = "再次輸入密碼";
+"send_button" = "發送";
+"new_password" = "新密碼";
+"re-new_password" = "再次輸入新密碼";
+"confirm_button" = "確認";
+"terms_of_service" = "服務條款";
+"privacy_policy" = "私隱權政策";
+"next_button" = "下一步";
+"cancel_button" = "取消";
+"continue_button" = "繼續";
+"settings" = "設定";
+"edit_post" = "修改文宣";
+"delete" = "刪除";
+"yes" = "是";
+"no" = "否";
+"pull_to_refresh" = "下拉刷新";
+"loading" = "載入中...";
+"save_to_wall_button" = "儲存到文宣牆";
+
+/* Tab Bar */
+"home_tab_bar" = "主頁";
+"search_tab_bar" = "搜尋";
+"save_list_tab_bar" = "文宣牆";
+"profile_tab_bar" = "帳號";
+
+/* Alert */
+"success_title" = "成功";
+"warning_title" = "Er...";
+"great_title" = "很好！！";
+"done_title" = "完成！！";
+"opps_title" = "喔噢...";
+"error_title" = "發生錯誤，深表遺撼";
+"login_success_title" = "登入成功";
+"sign_up_success_title" = "註冊成功";
+"email_verify_msg" = "你需要先驗證電郵才可繼續。\n如果你沒收到驗證電郵，請到帳號設定並重新發送驗證電郵。";
+"login_greeting_msg" = "歡迎回來文宣喇！！";
+"resend_code_success_msg" = "認證碼已經重新發送到你的電郵。";
+"reset_password_success_msg" = "成功更改密碼\n請用新密碼重新登入。";
+"sign_up_greeting_msg" = "歡迎使用文宣喇！！\n驗證電郵已發送到你的電郵信箱。\n你需要先驗證電郵才可使用所有功能。";
+"camera_permission_denied_msg" = "你需要在iOS私穩設定中，允許 文宣喇 使用你的相機。";
+"gallery_permission_denied_msg" = "你需要在iOS私隱設定中，允許 文宣喇 使用你的相片。";
+"delete_post_warning_msg" = "它將會從此壽終正寢。";
+"delete_post_confirm_msg" = "你是否決定刪除這個文宣？";
+"delete_post_success_msg" = "Let it go~~ 你剛剛刪除了一個文宣。";
+"edit_post_success_msg" = "你剛修改了你的文宣。";
+"create_post_and_save_success_msg" = "成功發表文宣並儲存到你的文宣牆 (%@)";
+"save_post_success" = "成功儲存文宣到你的文宣牆 (%@)。";
+"remove_wall_confirm_msg" = "你是否決定移除文宣牆？";
+"create_save_list_success_msg" = "成功建立新文宣牆！";
+"cache_cleared_msg" = "所有暫存記憶已清除。";
+"change_username_success_msg" = "成功修改用戶名。";
+"change_save_list_name_success_msg" = "成功修改文宣牆。";
+"lang_changed_msg" = "成功轉換App 語言。";
+
+/* Input Error */
+"invalid_username_email" = "用戶名 / 電郵地址錯誤";
+"invalid_login_password" = "密碼錯誤";
+"invalid_email" = "電郵地址錯誤";
+"invalid_confirmation_code" = "認證碼錯誤";
+"invalid_password" = "密碼錯誤(至少8個位)";
+"invalid_re-password" = "確認密碼錯誤";
+"invalid_current_password" = "原密碼錯誤";
+"invalid_new_password" = "新密碼錯誤(至少8個位)";
+"invalid_username" = "用戶名錯誤(6個位，英文字、數字、附號-._)";
+"invalid_keyword" = "關鍵字錯誤(注意大細偕，空白)";
+"email_is_taken" = "電郵地址已被註冊";
+"username_is_token" = "用戶名已被使用";
+
+/* Network Error */
+"This email address does not match our records" = "This email address does not match our records";
+
+
+/* Login Page */
+"login_username_email" = "用戶名 / 電郵地址";
+"login_forgot_password" = "忘記密碼？";
+"login_button" = "登入";
+"login_or" = "或";
+"sign_up_button" = "註冊";
+
+/* Forgot Password Page */
+"forgot_password_description" = "請輸入你的電郵地址，系統會發送一個6位數字認證碼到你電郵郵箱。認證碼之後會用嚟重設密碼。";
+
+/* Reset Password Page */
+"reset_password_description" = "使用認證碼來重設密碼";
+"reset_password_instruction" = "請輸入 %@ 收到的6位數字認證碼。";
+"reset_password_resend_email" = "按這裡重新發送新的認證碼。";
+"confirmation_code" = "認證碼";
+
+/* Sign Up Page */
+"sign_up_description" = "請填寫下面所有資料來註冊帳號。";
+"confirm_statement" = "按確認代表你已經同意我們的";
+
+/* Human Recognition Page */
+"human_recognition" = "人類驗證";
+"conscience" = "良心";
+"human_rights_article" = "人人生而自由，在尊嚴和權利上一律平等。他們賦有理性和良心，並應以兄弟關係的精神相對待。\n\n- 《世界人權宣言》第一條";
+"keyword_input" = "請輸入紅色關鍵字";
+
+/* Home Page */
+"latest_tab_title" = "最新";
+"today_tab_title" = "今日熱門";
+"weekly_tab_title" = "本周精選";
+
+/* Post Detail Page */
+"save_button" = "儲存";
+"mention_button" = "文宣喇";
+"source_link_button" = "Source Link (Optional)";
+"go_to_external_url_msg" = "You are going to an external site.";
+"go_external_url_warning" = "Never expose your Login Credentials.";
+
+/* Mention Page */
+"mention_page_title" = "文宣喇";
+"copied_button" = "已複製！！";
+"copy_to_clipboard_button" = "複製到剪貼簿";
+"share_button" = "分享出去";
+
+/* Pick Image Page */
+"camera_button" = "相機";
+"gallery_button" = "相簿";
+"upload_size" = "上傳大小: %.0f KB";
+
+/* Create New Post */
+"create_a_new_post" = "發表文宣";
+"title" = "標題";
+"title_placeholder" = "這個文宣的標題";
+"description" = "內容";
+"description_placeholder" = "請善用 #hashtags 以方便分類搜索。";
+"edit" = "修改";
+"editing_post" = "修改文宣中...";
+"deleting_post" = "刪除文宣中...";
+"hashtag_suggestion" = "#Hashtag 建議";
+"no_suggestions" = "找不到建議。";
+
+/* Choose Save List Page */
+"choose_a_save_list" = "選擇文宣牆";
+"new_post" = "新文宣";
+"post_to_save" = "儲存的文宣";
+"add_to_a_new_wall" = "加到新文宣牆";
+"your_save_list" = "你的文宣牆";
+"saving_post" = "儲存文宣中...";
+"creating_post" = "發表文宣中...";
+"create_a_new_wall" = "建立新文宣牆";
+
+/* Search Page */
+"search_bar_placeholder" = "在這裡輸入關鍵字";
+"trending_hashtags" = "熱門 #Hashtags";
+"posts_tab" = "文宣";
+"tags_tab" = "#Hashtags";
+"no_search_results_msg" = "Er...\n我們找不到資料關於 '%@'.";
+"no_keyword_msg" = "想搜尋什麼？\n輸入你想搜尋的關鍵字";
+
+/* Save List Page */
+"mention_wall_title" = "文宣牆";
+"no_save_list_msg" = "Er...\n你還未建立任何文宣牆。";
+"create_new_wall" = "建立新文宣牆";
+"new_wall_placeholder" = "文宣牆的名字";
+"create_your_first_wall_button" = "建立你第一個文宣牆";
+
+/* Save List Detail Page */
+"select" = "選擇";
+"no_saved_posts_msg" = "Er...\n你沒有已儲存的文宣。";
+"edit_wall_button" = "修改";
+"edit_this_wall" = "修改文宣牆";
+"edit_wall_placeholder" = "修改文宣牆的名字";
+"remove_wall_button" = "移除文宣牆";
+"remove_wall_warning" = "警告: 若移除文宣牆，文宣牆及其已儲存的文宣將會從此壽終正寢。";
+
+/* Select Posts Page */
+"select_posts" = "選擇文宣";
+
+/* Profile Page */
+"profile_title" = "帳號";
+"member_since" = "在 %@ 註冊";
+"email_not_verified" = "還未驗證電郵地址";
+"email_verified" = "電郵地址已驗證";
+"posts_created_by_you" = "你發表的文宣";
+"no_my_posts_msg" = "Er...\n你沒有發表文宣。";
+"create_first_post_button" = "發表第一個文宣";
+
+/* Settings Page */
+"account_settings" = "帳號設定";
+"language_settings" = "語言設定";
+"clear_app_cache" = "清除暫存記憶";
+
+/* Account Settings */
+"change_email" = "更改電郵地址";
+"change_password" = "更改密碼";
+"change_username" = "更改用戶名";
+"new_email_placeholder" = "輸入你新的電郵地址";
+"new_username_placeholder" = "輸入你新的用戶名";
+"resend_verify_email" = "重新發送驗證電郵";
+"logout" = "登出";
+
+/* Change Password Page */
+"current_password" = "原密碼";

@@ -1,0 +1,207 @@
+/* 
+  Localizable.strings
+  Mention
+
+  Created by Johnny Tsoi on 13/12/2019.
+  Copyright © 2019 Johnny@Mention.la. All rights reserved.
+*/
+
+/* Global */
+"email" = "Email";
+"username" = "Username";
+"password" = "Password";
+"re-password" = "Enter Password Again";
+"send_button" = "Send";
+"new_password" = "New Password";
+"re-new_password" = "Enter New Password Again";
+"confirm_button" = "Confirm";
+"terms_of_service" = "Terms of Service";
+"privacy_policy" = "Privacy Policy";
+"next_button" = "Next";
+"cancel_button" = "Cancel";
+"continue_button" = "Continue";
+"settings" = "Settings";
+"edit_post" = "Edit Post";
+"delete" = "Delete";
+"yes" = "Yes";
+"no" = "No";
+"pull_to_refresh" = "Pull To Refresh";
+"loading" = "Loading...";
+"save_to_wall_button" = "Save To Wall";
+
+/* Tab Bar */
+"home_tab_bar" = "Home";
+"search_tab_bar" = "Search";
+"save_list_tab_bar" = "My Walls";
+"profile_tab_bar" = "My Profile";
+
+/* Alert */
+"success_title" = "Success";
+"warning_title" = "Err...";
+"great_title" = "Great!!";
+"done_title" = "Done!!";
+"opps_title" = "Opps...";
+"error_title" = "Error";
+"login_success_title" = "Login Success";
+"sign_up_success_title" = "Sign Up Success";
+"email_verify_msg" = "You have to verify your email first.\nIf you don't received the verification email, please go to Account Setting and Resend the email.";
+"login_greeting_msg" = "Welcome back to Mention la!!";
+"resend_code_success_msg" = "The confirmation code was resent to your email.";
+"reset_password_success_msg" = "Password is reset successfully.\nPlease use the new password to login.";
+"sign_up_greeting_msg" = "Welcome to Mention la!!\nA verification email is sent to your email.\nYou need to verify your email before using all the functions.";
+"camera_permission_denied_msg" = "To take a picture, please go to privacy settings and give Mention la access to your camera.";
+"gallery_permission_denied_msg" = "To choose a picture, please go to privacy settings and give Mention la access to your photos.";
+"delete_post_warning_msg" = "It will be gone forever.";
+"delete_post_confirm_msg" = "Are you sure to delete this post ?";
+"delete_post_success_msg" = "Let it go~~ You just deleted a post.";
+"edit_post_success_msg" = "You just edited your post.";
+"create_post_and_save_success_msg" = "The new post is created and saved to your wall (%@)";
+"save_post_success" = "The post is saved to your save list (%@).";
+"remove_wall_confirm_msg" = "Are you sure to remove this wall ?";
+"create_save_list_success_msg" = "A new wall is created!";
+"cache_cleared_msg" = "App Cache Cleared";
+"change_username_success_msg" = "You have just changed your username";
+"change_save_list_name_success_msg" = "You just changed your wall's name.";
+"lang_changed_msg" = "App language is changed successfully.";
+
+/* Input Error */
+"invalid_username_email" = "Invalid Username / Email";
+"invalid_login_password" = "Invalid Password";
+"invalid_email" = "Invalid Email";
+"invalid_confirmation_code" = "Invalid Confirmation Code";
+"invalid_password" = "Invalid Password ( >=8 digits )";
+"invalid_re-password" = "Invalid Password Confirmation";
+"invalid_current_password" = "Invalid Current Password";
+"invalid_new_password" = "Invalid New Password ( >=8 digits )";
+"invalid_username" = "Invalid Username ( >=6 digits, A-z, 0-9, -._ )";
+"invalid_keyword" = "Invalid Keyword ( case-sensitive )";
+"email_is_taken" = "Email has already been taken";
+"username_is_token" = "Username has already been taken";
+
+/* Network Error */
+"This email address does not match our records" = "This email address does not match our records";
+
+
+/* Login Page */
+"login_username_email" = "Username / Email";
+"login_forgot_password" = "Forgot Password ?";
+"login_button" = "Login";
+"login_or" = "Or";
+"sign_up_button" = "Sign Up";
+
+/* Forgot Password Page */
+"forgot_password_description" = "Enter your Email and we will send you a 6-Digits code to reset password.";
+
+/* Reset Password Page */
+"reset_password_description" = "Reset Password with Confirmation Code";
+"reset_password_instruction" = "Enter the 6-digit code we sent to %@.";
+"reset_password_resend_email" = "Click here to request a new one.";
+"confirmation_code" = "Confirmation Code";
+
+/* Sign Up Page */
+"sign_up_description" = "Please provide all the info below in order to to sign up.";
+"confirm_statement" = "By clicking confirm, you agree with our";
+
+/* Human Recognition Page */
+"human_recognition" = "Human Recognition";
+"conscience" = "conscience";
+"human_rights_article" = "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.\n\n- Article 1 of \"Universal Declaration of Human Rights\"";
+"keyword_input" = "Enter the RED keyword";
+
+/* Home Page */
+"latest_tab_title" = "Latest";
+"today_tab_title" = "Today";
+"weekly_tab_title" = "This Week";
+
+/* Post Detail Page */
+"save_button" = "Save";
+"mention_button" = "Mention";
+"source_link_button" = "Source Link (Optional)";
+"go_to_external_url_msg" = "You are going to an external site.";
+"go_external_url_warning" = "Never expose your Login Credentials.";
+
+/* Mention Page */
+"mention_page_title" = "Mention It";
+"copied_button" = "Copied !!";
+"copy_to_clipboard_button" = "Copy To Clipboard";
+"share_button" = "Share";
+
+/* Pick Image Page */
+"camera_button" = "Camera";
+"gallery_button" = "Gallery";
+"upload_size" = "Upload Size: %.0f KB";
+
+/* Create New Post */
+"create_a_new_post" = "Create A New Post";
+"title" = "Title";
+"title_placeholder" = "Give your post a title";
+"description" = "Description";
+"description_placeholder" = "What is it about?\nFeel free to add #hashtags and hyperlinks (https://).";
+"edit" = "Edit";
+"editing_post" = "Editing Post...";
+"deleting_post" = "Deleting Post...";
+"hashtag_suggestion" = "#Hashtag Suggestion";
+"no_suggestions" = "No suggestions found.";
+
+/* Choose Save List Page */
+"choose_a_save_list" = "Choose A Wall";
+"new_post" = "New Post";
+"post_to_save" = "Post to Save";
+"add_to_a_new_wall" = "Add To A New Wall";
+"your_save_list" = "Your Save Lists";
+"saving_post" = "Saving Post...";
+"creating_post" = "Creating Post...";
+"create_a_new_wall" = "Create A New Wall";
+
+/* Search Page */
+"search_bar_placeholder" = "Enter the keyword here";
+"trending_hashtags" = "Trending #Hashtags";
+"posts_tab" = "Posts";
+"tags_tab" = "#Hashtags";
+"no_search_results_msg" = "Omg...We couldn't find any posts for '%@'.";
+"no_keyword_msg" = "Enter the keyword you wanna search.";
+
+/* Save List Page */
+"mention_wall_title" = "MENTION WALL";
+"no_save_list_msg" = "Er... \nYou haven't created any walls yet.";
+"create_new_wall" = "Create New Wall";
+"new_wall_placeholder" = "Give your new wall a name";
+"create_your_first_wall_button" = "Create your first wall";
+
+/* Save List Detail Page */
+"select" = "Select";
+"no_saved_posts_msg" = "Opps... You haven't save any posts in this wall yet.";
+"edit_wall_button" = "Edit";
+"edit_this_wall" = "Edit This Wall";
+"edit_wall_placeholder" = "Edit your wall's name";
+"remove_wall_button" = "Remove This Wall";
+"remove_wall_warning" = "Warning: Removing Wall will also remove all of its posts forever.";
+
+/* Select Posts Page */
+"select_posts" = "Select Posts";
+
+/* Profile Page */
+"profile_title" = "PROFILE";
+"member_since" = "Member Since %@";
+"email_not_verified" = "Email Not Yet Verified";
+"email_verified" = "Email Verified";
+"posts_created_by_you" = "Posts Created by You";
+"no_my_posts_msg" = "Hmm... You haven't created any posts yet.";
+"create_first_post_button" = "Create your first post";
+
+/* Settings Page */
+"account_settings" = "Account Settings";
+"language_settings" = "Languages";
+"clear_app_cache" = "Clear App Cache";
+
+/* Account Settings */
+"change_email" = "Change Email";
+"change_password" = "Change Password";
+"change_username" = "Change Username";
+"new_email_placeholder" = "Enter Your New Email";
+"new_username_placeholder" = "Enter Your New Username";
+"resend_verify_email" = "Resend Verification Email";
+"logout" = "Logout";
+
+/* Change Password Page */
+"current_password" = "Current Password";

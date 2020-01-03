@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  Mention
+
+  Created by Johnny Tsoi on 15/12/2019.
+    Copyright © 2019 Johnny@Mention.la. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Mention la";
+"CFBundleName" = "Mention la";
+"NSLocationWhenInUseUsageDescription" = "Mention la needs access to get your location.";
+"NSLocationAlwaysUsageDescription" = "Mention la needs access to get your location.";
+"NSCameraUsageDescription" = "To take a picture, please give Mention la access to your camera.";
+"NSPhotoLibraryUsageDescription" = "To choose a picture, please give Mention la access to your photos.";
+"NSPhotoLibraryAddUsageDescription" = "To save a picture, please give Mention la access to your photos library.";

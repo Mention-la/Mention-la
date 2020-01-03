@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delete_saved_posts_msg</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@num_of_posts@</string>
+		<key>num_of_posts</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>one</key>
+			<string>Are you sure to delete this post?</string>
+			<key>other</key>
+			<string>Are you sure to delete these %u posts?</string>
+		</dict>
+	</dict>
+	<key>delete_saved_posts_success_msg</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@num_of_posts@</string>
+		<key>num_of_posts</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>one</key>
+			<string>You just deleted 1 post.</string>
+			<key>other</key>
+			<string>You just deleted %u posts.</string>
+		</dict>
+	</dict>
+	<key>delete_save_list_post_warning</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@num_of_posts@</string>
+		<key>num_of_posts</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>one</key>
+			<string>It will be gone forever.</string>
+			<key>other</key>
+			<string>They will be gone forever.</string>
+		</dict>
+	</dict>
+	<key>mention_counter</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@num_of_mention@</string>
+		<key>num_of_mention</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>0 Times</string>
+			<key>one</key>
+			<string>1 Time</string>
+			<key>other</key>
+			<string>%u Times</string>
+		</dict>
+	</dict>
+	<key>saved_by_counter</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@num_of_save@</string>
+		<key>num_of_save</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>by 0 Users</string>
+			<key>one</key>
+			<string>by 1 User</string>
+			<key>other</key>
+			<string>by %u Users</string>
+		</dict>
+	</dict>
+	<key>selected_post_count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@num_of_selected_posts@</string>
+		<key>num_of_selected_posts</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>No Selected Posts</string>
+			<key>one</key>
+			<string>1 Selected Post</string>
+			<key>other</key>
+			<string>%u Selected Posts</string>
+		</dict>
+	</dict>
+	<key>post_count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@num_of_posts@</string>
+		<key>num_of_posts</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>No Posts</string>
+			<key>one</key>
+			<string>1 Post</string>
+			<key>other</key>
+			<string>%u Posts</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

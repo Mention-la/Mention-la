@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  Mention
+
+  Created by Johnny Tsoi on 15/12/2019.
+    Copyright © 2019 Johnny@Mention.la. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "文宣喇";
+"CFBundleName" = "文宣喇";
+"NSLocationWhenInUseUsageDescription" = "文宣喇 需要你的授權來存取你的地理位置。";
+"NSLocationAlwaysUsageDescription" = "文宣喇 需要你的授權來存取你的地理位置。";
+"NSCameraUsageDescription" = "若要使用相機拍照，請授權 文宣喇 存取你的相機。";
+"NSPhotoLibraryUsageDescription" = "若要選取照片，請授權 文宣喇 存取你的照片。";
+"NSPhotoLibraryAddUsageDescription" = "若要儲存圖片，請授權 文宣喇 存取你的相簿。";
