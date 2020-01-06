@@ -36,8 +36,8 @@ And I will reply you ASAP.
 You could click the ```Download``` button at right top corner to download all the translation.
 All the translation files are in the ```Translations``` folder.  
 If you want to create a new language, just simply copy an existing language folder and rename it to new [language code](https://www.science.co.il/language/Locale-codes.php). i.e. ```zh-HK``` to ```ja```.  
-You can edit those file using Wordpad, but I recommand you to use [Atom](https://atom.io/) which is more powerful.  
-After finished the translation, you can make **Pull Request** here.  **If don't know how to make a Pull Request, you can just email it to me johnny@mention.la**.
+You can edit those file using Wordpad, but I would recommand you to use [Atom](https://atom.io/) which is much more powerful.  
+After finished the translation, you can make a **Pull Request** here.  **If you don't know how to make a Pull Request, you can just email it to me johnny@mention.la**.
 
 ### ❤️ Donation and Sponsorship
 
