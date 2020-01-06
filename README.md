@@ -42,4 +42,4 @@ After finished the translation, you can make **Pull Request** here.  **If don't 
 ### ❤️ Donation and Sponsorship
 
 If you ❤️ Mention la and want to support the author in financial way, you could click the ```Sponsor``` button at the mid-top.
-You could choose to sponsor monthly (Github Sponsors) or donate one time (Paypal or BuyMeACoffee). I am grateful for your kind support.
+You could choose to sponsor monthly (Github Sponsors) or donate one time (Paypal or BuyMeACoffee). I am grateful for your kind support. Beside supporting me, you may also consider to donate money to [612 Humanitarian Relief Fund](https://612fund.hk/zh/donate).
